@@ -1,5 +1,4 @@
-<!-- Баннер: загрузите картинку в репозиторий (например, banner.jpg) и укажите путь ниже -->
-<img src="https://www.pinterest.com/pin/1149332767436287178/" alt="banner" width="100%" />
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80" alt="banner" width="100%" />
 
 <h2 align="center">Frontend Developer who cares about clean UI & great UX</h2>
 
