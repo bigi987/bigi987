@@ -1,20 +1,23 @@
+<!-- Баннер: загрузите картинку в репозиторий (например, banner.jpg) и укажите путь ниже -->
 <img src="https://YOUR-IMAGE-URL/banner.jpg" alt="banner" width="100%" />
 
-<h2 align="center">Backend Developer who's just as comfortable on the frontend</h2>
+<h2 align="center">Frontend Developer who cares about clean UI & great UX</h2>
 
-<p align="center"><code>Laravel + Vue.js Developer</code></p>
+<p align="center"><code>React + Tailwind CSS Developer</code></p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm a Backend Developer based in Chisinau, Moldova, with hands-on experience building real-world web applications — from authentication systems to PDF invoice generation. I mainly work with **PHP / Laravel**, but I'm equally comfortable jumping into the frontend with **Vue.js**.
+I'm a Frontend Developer who loves turning designs into fast, responsive and accessible interfaces. I work mainly with **React**, **JavaScript** and **Tailwind CSS**, and I enjoy writing clean, reusable components.
 
-- Currently working as a **Backend Developer**, previously building features for **LinkAir** — a travel platform for flights, hotels, tours & city breaks
-- Built systems for user auth, profile management, and PDF ticket/invoice generation using Laravel & MySQL
-- Always sharpening my skills in API design, backend architecture, and modern frontend tooling
-- Ask me about **Laravel**, **REST APIs**, or **database design**
-- Reach me at **your.email@gmail.com**
+- 🎨 Building responsive, pixel-perfect layouts with **HTML5, CSS3 & Tailwind CSS**
+- ⚛️ Creating reusable components and managing state in **React**
+- 📱 Mobile-first approach and cross-browser compatibility
+- 🌱 Currently learning **TypeScript** and **Next.js**
+- 🔧 Comfortable with **Git & GitHub** workflows: branches, pull requests, code review
+- 💬 Ask me about **React**, **Tailwind CSS** or **responsive design**
+- 📫 Reach me at **your.email@gmail.com**
 
 ---
 
@@ -24,43 +27,75 @@ I'm a Backend Developer based in Chisinau, Moldova, with hands-on experience bui
 
 **Languages & Core**
 
-<img src="https://skillicons.dev/icons?i=php,js,go,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap" />
-
-**Database & Infra**
-
-<img src="https://skillicons.dev/icons?i=mysql,redis,linux" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite" />
+
+**Currently Learning**
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs" />
 
 </div>
 
 ---
 
-## 💼 Experience Highlights
+## 🚀 What I Do
 
-**Junior Backend Developer @ LinkAir** · _June 2024 – August 2025_
+| Area | What it means |
+| ---- | ------------- |
+| 🧱 **Layout** | Flexbox, Grid, responsive design, mobile-first |
+| ⚛️ **Components** | Reusable React components, hooks, props & state |
+| 🎯 **Styling** | Tailwind CSS utility classes, custom themes, dark mode |
+| 🌐 **Web basics** | Semantic HTML, accessibility, SEO fundamentals |
+| 🔀 **Workflow** | Git branching, commits, pull requests on GitHub |
 
-> LinkAir is a travel platform for flight booking, hotel booking, tours, and city break trips.
+---
 
-- 🔐 Built a full user registration & authentication system in Laravel — validation, password hashing, email verification, login, and password recovery
-- 👤 Developed the user profile system, handling data retrieval and API responses via Laravel Eloquent
-- 📄 Implemented PDF generation for tickets and invoices, including template rendering and database-driven document creation
+## 📌 Featured Projects
+
+> Replace these with your own projects and add links!
+
+- 🛒 **[Project Name](https://github.com/bigi987/project)** — short description (e.g. online store built with React & Tailwind CSS)
+- ✅ **[Project Name](https://github.com/bigi987/project)** — short description (e.g. to-do app with local storage)
+- 🌤️ **[Project Name](https://github.com/bigi987/project)** — short description (e.g. weather app using a public API)
+
+---
+
+## 🎯 Goals
+
+- [x] Learn HTML, CSS and JavaScript
+- [x] Build projects with React & Tailwind CSS
+- [ ] Learn TypeScript
+- [ ] Learn Next.js
+- [ ] Contribute to open source
+- [ ] Land a Frontend Developer position
 
 ---
 
 ## 🌐 Languages I Speak
 
-| Language | Level  |
-| -------- | ------ |
+| Language | Level |
+| -------- | ----- |
 | 🇷🇺 Russian | Native |
-| 🇬🇧 English | B1     |
-| 🇷🇴 Romanian | B1     |
+| 🇬🇧 English | B1 |
+| 🇷🇴 Romanian | B1 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bigi987&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigi987&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
 
 ---
 
@@ -70,6 +105,12 @@ I'm a Backend Developer based in Chisinau, Moldova, with hands-on experience bui
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://t.me/your_username">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to interesting backend & full-stack projects!</i></p>
+<p align="center"><i>Thanks for stopping by — always open to interesting frontend projects and collaborations!</i></p>
