@@ -1,5 +1,5 @@
 <div align="center" style="padding: 12px 0 4px;">
-  <img src="/git2.jpg" alt="banner" width="100%" style="max-width: 1000px; width: 100%; border-radius: 22px; box-shadow: 0 18px 40px rgba(14, 165, 233, 0.18); border: 1px solid rgba(148, 163, 184, 0.35);" />
+  <img src="git2.jpg" alt="banner" width="100%" style="max-width: 1000px; width: 100%; border-radius: 22px; box-shadow: 0 18px 40px rgba(14, 165, 233, 0.18); border: 1px solid rgba(148, 163, 184, 0.35);" />
 </div>
 
 <h2 align="center" style="margin: 18px auto 8px; font-size: 2rem; letter-spacing: 0.04em; background: linear-gradient(90deg, #7dd3fc 0%, #a78bfa 35%, #f9a8d4 100%); -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: 0 0 18px rgba(125, 211, 252, 0.25);">
