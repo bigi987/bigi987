@@ -26,21 +26,21 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a Frontend Developer who loves turning designs into fast, responsive and accessible interfaces. I work mainly with **React**, **JavaScript** and **Tailwind CSS**, and I enjoy writing clean, reusable components.
 
-- 🎨 Building responsive, pixel-perfect layouts with **HTML5, CSS3 & Tailwind CSS**
-- ⚛️ Creating reusable components and managing state in **React**
-- 📱 Mobile-first approach and cross-browser compatibility
-- 🌱 Currently learning **TypeScript** and **Next.js**
-- 🔧 Comfortable with **Git & GitHub** workflows: branches, pull requests, code review
-- 💬 Ask me about **React**, **Tailwind CSS** or **responsive design**
-- 📫 Reach me at **your.email@gmail.com**
+-  Building responsive, pixel-perfect layouts with **HTML5, CSS3 & Tailwind CSS**
+-  Creating reusable components and managing state in **React**
+-  Mobile-first approach and cross-browser compatibility
+-  Currently learning **TypeScript** and **Next.js**
+-  Comfortable with **Git & GitHub** workflows: branches, pull requests, code review
+-  Ask me about **React**, **Tailwind CSS** or **responsive design**
+-  Reach me at **your.email@gmail.com**
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -60,7 +60,7 @@ I'm a Frontend Developer who loves turning designs into fast, responsive and acc
 
 
 
-## 📌 Featured Projects
+##  Featured Projects
 
 > Replace these with your own projects and add links!
 
@@ -71,7 +71,7 @@ I'm a Frontend Developer who loves turning designs into fast, responsive and acc
 ---
 
 
-## 🌐 Languages I Speak
+##  Languages I Speak
 
 | Language | Level |
 | -------- | ----- |
@@ -81,7 +81,7 @@ I'm a Frontend Developer who loves turning designs into fast, responsive and acc
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -92,10 +92,10 @@ I'm a Frontend Developer who loves turning designs into fast, responsive and acc
 
 ---
 
-<h3 align="center">🤝 Let's Connect</h3>
+<h3 align="center"> Let's Connect</h3>
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:your.vladislavpetcoglo4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/your_username">
