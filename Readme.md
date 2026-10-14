@@ -1,9 +1,23 @@
 <!-- Баннер: загрузите картинку в репозиторий (например, banner.jpg) и укажите путь ниже -->
-<img src="https://YOUR-IMAGE-URL/banner.jpg" alt="banner" width="100%" />
+<img src="https://www.pinterest.com/pin/1149332767436287178/" alt="banner" width="100%" />
 
 <h2 align="center">Frontend Developer who cares about clean UI & great UX</h2>
 
-<p align="center"><code>React + Tailwind CSS Developer</code></p>
+<p align="center">
+  <svg width="420" height="42" viewBox="0 0 420 42" xmlns="http://www.w3.org/2000/svg" aria-label="React + Tailwind CSS Developer">
+    <defs>
+      <linearGradient id="textGradient" x1="0%" x2="100%" y1="0%" y2="0%">
+        <stop offset="0%" stop-color="#61dafb" />
+        <stop offset="100%" stop-color="#38bdf8" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="18" font-weight="700" fill="url(#textGradient)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.2s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0 12" to="0 0" dur="1.2s" begin="0.2s" fill="freeze" />
+      React + Tailwind CSS Developer
+    </text>
+  </svg>
+</p>
 
 ---
 
@@ -35,56 +49,30 @@ I'm a Frontend Developer who loves turning designs into fast, responsive and acc
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite" />
-
-**Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=ts,nextjs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
 
 </div>
 
----
 
-## 🚀 What I Do
-
-| Area | What it means |
-| ---- | ------------- |
-| 🧱 **Layout** | Flexbox, Grid, responsive design, mobile-first |
-| ⚛️ **Components** | Reusable React components, hooks, props & state |
-| 🎯 **Styling** | Tailwind CSS utility classes, custom themes, dark mode |
-| 🌐 **Web basics** | Semantic HTML, accessibility, SEO fundamentals |
-| 🔀 **Workflow** | Git branching, commits, pull requests on GitHub |
-
----
 
 ## 📌 Featured Projects
 
 > Replace these with your own projects and add links!
 
-- 🛒 **[Project Name](https://github.com/bigi987/project)** — short description (e.g. online store built with React & Tailwind CSS)
-- ✅ **[Project Name](https://github.com/bigi987/project)** — short description (e.g. to-do app with local storage)
-- 🌤️ **[Project Name](https://github.com/bigi987/project)** — short description (e.g. weather app using a public API)
+-  **[Aiagency](https://github.com/bigi987/aiagency)** — short description (e.g. online store built with React & Tailwind CSS)
+-  **[Project Name](https://github.com/bigi987/project)** — short description (e.g. to-do app with local storage)
+-  **[Project Name](https://github.com/bigi987/project)** — short description (e.g. weather app using a public API)
 
 ---
 
-## 🎯 Goals
-
-- [x] Learn HTML, CSS and JavaScript
-- [x] Build projects with React & Tailwind CSS
-- [ ] Learn TypeScript
-- [ ] Learn Next.js
-- [ ] Contribute to open source
-- [ ] Land a Frontend Developer position
-
----
 
 ## 🌐 Languages I Speak
 
 | Language | Level |
 | -------- | ----- |
 | 🇷🇺 Russian | Native |
-| 🇬🇧 English | B1 |
-| 🇷🇴 Romanian | B1 |
+| 🇬🇧 English | B2 |
+| 🇷🇴 Romanian | Native |
 
 ---
 
